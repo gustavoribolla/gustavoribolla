@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Colombi Ribolla 🖐️
+## Olá! Eu sou o Gustavo Colombi Ribolla 👋
 
 - Seja bem-vindo(a) ao meu perfil;
 - Sou um desenvolvedor apaixonado por tecnologia e inovação;
