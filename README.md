@@ -9,7 +9,7 @@
 
 ### Estatísticas
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ribollequis87&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true&include_all_commits=true)
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ribollequis87&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
 
 ## 
 
