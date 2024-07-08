@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gustavo Colombi Ribolla 👋
 
 - Seja bem-vindo(a) ao meu perfil;
-- Sou um desenvolvedor apaixonado por tecnologia e inovação;
 - Estou sempre em busca de aprender novas linguagens;
 - Atualmente, estou cursando Ciência da Computação no INSPER.
 
