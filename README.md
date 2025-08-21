@@ -1,8 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&center=true&duration=3000&pause=100&color=AAAAAA&width=500&height=70&lines=Hi+There!;Welcome+to+my+GitHub!" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&center=true&duration=3500&pause=100&color=F8F8F8&width=500&height=70&lines=Hi+There!;Welcome+to+my+GitHub!" 
     alt="Typing SVG" />
 </h1>
+
 
 <h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
 <br>
