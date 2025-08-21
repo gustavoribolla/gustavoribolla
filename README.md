@@ -1,4 +1,8 @@
-## Olá! Eu sou o Gustavo Colombi Ribolla 👋
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&center=true&duration=3000&pause=100&color=AAAAAA&width=500&height=70&lines=Hi+There!;I'm+Gustavo+Colombi+Ribolla;Welcome!" 
+    alt="Typing SVG" />
+</h1>
 
 - Seja bem-vindo(a) ao meu perfil;
 - Estou sempre em busca de aprender novas linguagens;
