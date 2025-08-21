@@ -11,6 +11,13 @@
 
 <div align="center">
   
+I’m currently working on projects in Data Science and Software Development
+I’m currently learning Cybersecurity and Computational Fluid Dynamics (CFD)
+
+</div>
+
+<div align="center">
+  
 ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
 
 </div>
