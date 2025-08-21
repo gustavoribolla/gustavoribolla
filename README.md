@@ -6,15 +6,19 @@
 
 <h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
 
-##
-
 ### Stats
 
+<div align="center">
+  
 ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
+
+</div>
 
 ## 
 
 ### Languages
+
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&hide_progress=true&theme=radical)
 
@@ -27,7 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
 </div>
 
+</div>
+
 ##
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_ribolla)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoribolla)
+
+</div>
