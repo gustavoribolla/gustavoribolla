@@ -6,7 +6,7 @@
 
 <h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
 
-### Stats
+## Stats
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 ## 
 
-### Languages
+## Languages
 
 <div align="center">
 
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />
 </div>
 
 </div>
