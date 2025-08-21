@@ -4,7 +4,7 @@
     alt="Typing SVG" />
 </h1>
 
-<h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
+<h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2><br>
 
 <div align="center">
   
