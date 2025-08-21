@@ -1,20 +1,20 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&center=true&duration=3000&pause=100&color=AAAAAA&width=500&height=70&lines=Hi+There!;I'm+Gustavo+Colombi+Ribolla;Welcome!" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&center=true&duration=3000&pause=100&color=AAAAAA&width=500&height=70&lines=Hi+There!;Welcome+to+my+GitHub!" 
     alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Computer Science at Insper</h3>
+<h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
 
 ##
 
-### Estatísticas
+### Stats
 
 ![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
 
 ## 
 
-### Linguagens
+### Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&hide_progress=true&theme=radical)
 
