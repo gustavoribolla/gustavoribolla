@@ -5,8 +5,9 @@
 </h1>
 
 
-<h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
-<br>
+<h3 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h3>
+
+---
 
 <div align="center">
   
