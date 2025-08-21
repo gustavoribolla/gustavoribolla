@@ -4,9 +4,7 @@
     alt="Typing SVG" />
 </h1>
 
-- Seja bem-vindo(a) ao meu perfil;
-- Estou sempre em busca de aprender novas linguagens;
-- Atualmente, estou cursando Ciência da Computação no INSPER.
+<h3 align="center">Computer Science at Insper</h3>
 
 ##
 
