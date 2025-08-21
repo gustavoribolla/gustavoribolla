@@ -4,7 +4,8 @@
     alt="Typing SVG" />
 </h1>
 
-<h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2><br>
+<h2 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h2>
+<br>
 
 <div align="center">
   
@@ -13,7 +14,7 @@
 </div>
 
 ## 
-
+<br>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&hide_progress=true&theme=radical)
@@ -32,7 +33,7 @@
 </div>
 
 ##
-
+<br>
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_ribolla)
