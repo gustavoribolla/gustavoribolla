@@ -7,26 +7,34 @@
 
 <h3 align="center">Gustavo Colombi Ribolla | Computer Science at Insper</h3>
 
+<div align="center">
+  
+I’m currently working on projects in **Data Science** and **Software Development**<br>
+I’m currently learning **Cybersecurity** and **Computational Fluid Dynamics (CFD)**
+
+</div>
+
 ---
 
 <div align="center">
-  
-I’m currently working on projects in Data Science and Software Development
-I’m currently learning Cybersecurity and Computational Fluid Dynamics (CFD)
+  <div style="display:flex; justify-content:center; align-items:flex-start; gap:32px; flex-wrap:wrap;">
+    
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true"
+    height="190"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&theme=radical&hide_progress=true"
+    height="190"
+  />
+
+  </div>
 </div>
 
+---
+
 <div align="center">
-  
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
-
-</div>
-
-## 
-<br>
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&hide_progress=true&theme=radical)
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" />
