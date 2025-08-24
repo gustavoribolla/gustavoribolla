@@ -9,8 +9,8 @@
 
 <div align="center">
   
-I’m currently working on projects in **Data Science** and **Software Development**<br>
-I’m currently learning **Cybersecurity** and **Computational Fluid Dynamics (CFD)**
+I’m currently working on projects in **Software Development**, and **Computational Fluid Dynamics (CFD)**<br>
+I’m currently learning **Cybersecurity** and exploring **Predictive Modeling** in greater depth
 
 </div>
 
@@ -55,5 +55,7 @@ I’m currently learning **Cybersecurity** and **Computational Fluid Dynamics (C
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_ribolla)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoribolla)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusribolla@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavocr2@al.insper.edu.br)
 
 </div>
