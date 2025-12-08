@@ -17,24 +17,6 @@ I’m currently learning **Cybersecurity** and exploring **Predictive Modeling**
 ---
 
 <div align="center">
-  <div style="display:flex; justify-content:center; align-items:flex-start; gap:32px; flex-wrap:wrap;">
-    
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true"
-    height="190"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&theme=radical&hide_progress=true"
-    height="190"
-  />
-
-  </div>
-</div>
-
----
-
-<div align="center">
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" />
